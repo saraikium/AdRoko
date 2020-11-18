@@ -1,0 +1,6 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2020
+  },
+             "extends": ["eslint:recommended", "react-app", "eslint-config-prettier"]
+}
